@@ -12,5 +12,5 @@ Secondly, In the while loop, init function helps me to initialize the program.
 
 Thirdly, the process function calculates how many neighbor do we have for every position and result in changing the next universe. After that, the current universe pointer points to the next one and delete the origin one.
 
-The last one is event function for detecting whether we have pressed any button on the keyboard. (e.g. n for taking a single step forward, p for being in the paused mode, q for quitting the program, and X for setting an X on the screen.)
+The last one is event function for detecting whether we have pressed any button on the keyboard. (e.g. n for taking a single step forward, p for being in the paused mode, q for quitting the program, and x for setting an X on the screen.)
 
